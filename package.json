@@ -1,0 +1,10 @@
+{
+    "name": "secret"
+  , "version": "1.0.0"
+  , "description": "An `in memory key value store module` for node.js"
+  , "keywords": [ "secret", "key value", "global" ]
+  , "author": "dreamerslab <ben@dreamerslab.com>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node >= 0.4.0" }
+}

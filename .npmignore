@@ -1,0 +1,6 @@
+.DS_Store
+*.sock
+node_modules
+support
+test
+examples
