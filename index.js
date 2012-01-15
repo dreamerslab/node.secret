@@ -1,1 +1,1 @@
-module.exports = require('./lib/secret');
+module.exports = require( './lib/secret' );
